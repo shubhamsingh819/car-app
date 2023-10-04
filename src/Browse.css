@@ -1,0 +1,11 @@
+/* Browse.css */
+.half-width-image {
+  max-width: 50%;
+  height: auto;
+}
+
+.top-right-modal {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
